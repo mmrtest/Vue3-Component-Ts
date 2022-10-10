@@ -44,3 +44,10 @@ npm run build
 ```sh
 npm run lint
 ```
+
+### Run Package
+
+```sh
+npm publish
+```
+
